@@ -359,7 +359,7 @@ export const projects: Project[] = [
       "Database-backed management of users, products, carts, orders and payments",
       "Experience with both SQLite and MySQL during development",
     ],
-    github: null,
+    github: "https://github.com/sadeedmahamood/fullstack-ecommerce",
     live: null,
     media: [
       {
@@ -398,7 +398,7 @@ export const projects: Project[] = [
       "Responsive frontend pages built with HTML, CSS and Bootstrap",
       "Designed around a simple exchange-based user workflow",
     ],
-    github: null,
+    github: "https://github.com/sadeedmahamood/BOOKSWAP",
     live: null,
         media: [
       {
