@@ -311,12 +311,12 @@ export const projects: Project[] = [
         alt: "NEXORA CRM dashboard with pipeline and activity overview",
         label: "Dashboard",
       },
-      {
-        type: "video",
-        src: "/projects/Placement_Scheduler.mp4",
-        alt: "Moving a deal through pipeline stages in NEXORA CRM",
-        label: "Deals workflow",
-      },
+      // {
+      //   type: "video",
+      //   src: "/projects/Placement_Scheduler.mp4",
+      //   alt: "Moving a deal through pipeline stages in NEXORA CRM",
+      //   label: "Deals workflow",
+      // },
     ],
   },
   {
@@ -368,12 +368,12 @@ export const projects: Project[] = [
         alt: "NEXORA CRM dashboard with pipeline and activity overview",
         label: "Dashboard",
       },
-      {
-        type: "video",
-        src: "/projects/e-commerce-vdo-2-main.mp4",
-        alt: "Moving a deal through pipeline stages in NEXORA CRM",
-        label: "Deals workflow",
-      },
+      // {
+      //   type: "video",
+      //   src: "/projects/e-commerce-vdo-2-main.mp4",
+      //   alt: "Moving a deal through pipeline stages in NEXORA CRM",
+      //   label: "Deals workflow",
+      // },
     ],
   },
   {
@@ -407,12 +407,12 @@ export const projects: Project[] = [
         alt: "NEXORA CRM dashboard with pipeline and activity overview",
         label: "Dashboard",
       },
-      {
-        type: "video",
-        src: "/projects/book-swap-vdo-2.mp4",
-        alt: "Moving a deal through pipeline stages in NEXORA CRM",
-        label: "Deals workflow",
-      },
+      // {
+      //   type: "video",
+      //   src: "/projects/book-swap-vdo-2.mp4",
+      //   alt: "Moving a deal through pipeline stages in NEXORA CRM",
+      //   label: "Deals workflow",
+      // },
     ],
   },
 ];
